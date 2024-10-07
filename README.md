@@ -1,4 +1,6 @@
-# DigitPlusIT
+# DigitPlusIT 
+
+(Install NODE before running the code)
 Sim Card Activation Service. (Note: This is not a working service and does not run as it could only be partially implemented in the alotted time)
 
 Initial Plan for this service:
