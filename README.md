@@ -1,4 +1,4 @@
-# DigitPlusIT 
+# DigiPlusIT 
 
 (Install NODE before running the code)
 
